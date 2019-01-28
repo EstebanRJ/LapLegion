@@ -1,0 +1,59 @@
+﻿nathaly.zamorategui@softtek.com
+u2BZ8nAQ
+
+----------
+
+nathaly.zamorategui@softtek.com2
+VyVp77jw
+
+----------
+
+nathaly.zamorategui@softtek.com387.r
+pbvg43KR
+
+----------
+
+https://workspace.citi.com
+VDI Poncho
+at64924
+Banamex201808 | Banamex201811
+
+------------
+Token: 
+VDI Robert
+jr79480
+Comercial401 
+------------
+
+Liga de UAT: https://wltxoroap04ur:31707/spei/login.jsp
+
+Liga de Transformación: 
+
+Liga MCO DEV: https://wltxplaap02d:20264/spei/login.jsp   
+			  https://wltxplaap02d:20264/spei
+			  
+Usuarios medio 4: 1602942
+				  3109615
+				  
+				  
+Comandos para compilar 
+-ant clean
+-ant dist
+
+
+Gemelo: 502
+Bau UAT 40002
+
+Tectia:
+ROOT+ AÑO (02) + MES (02)
+
+ Liga web service para MCO DEV:
+credencial: 
+
+
+Tutorial para sacar evidencias: 
+-Descargar la carpeta de Changes que proporcionen en el servidor CLOUD_39 (home/jr79480/CHANGUES)
+-Respaldarlas en el Disco C en la ruta: C:/Develop/Changues 
+-Ahora copiar esa carpeta en el Disco Z: en la ruta: Z:/2018/NOV 
+-En la ruta Z dentro de la carpeta del change copiado, aplicaremos en CMD un Dir, copiaremos la info que parece (Clic Derecho -> Mark 
+--->> Subrayar el directorio -> Enter (Automaticamente se copia). Esa info se proporciona por correo
